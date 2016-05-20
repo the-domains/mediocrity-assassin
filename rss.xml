@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Mediocrity Assassin]]></title>
         <description><![CDATA[Mediocrity Assassin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mediocrity-assassin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 23:47:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 23:47:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mediocrity-assassin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]]]></title>
+            <description><![CDATA[<article><h1>The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]</h1><p>Design is a plan for arranging elements in such a way as to accomplish a particular purpose. - Charles Eames In order to arrange your design, you need a place to start. Backgrounds are the foundation of your graphics - it helps pave the path to forming a successful composition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/877d79945943ec595c9e850987ca4480cd3a921f.jpg"></article>]]></description>
+            <link>https://designschool.canva.com/blog/background-design/</link>
+            <guid isPermaLink="false">f86d7438-e64d-4ba6-873c-90688e56272a</guid>
+            <pubDate>Fri, 20 May 2016 23:47:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paint With Fire Using This Virtual Reality App]]></title>
             <description><![CDATA[<article><h1>Paint With Fire Using This Virtual Reality App</h1><p>Vocativ uses intelligent technology, smart journalists and the wisdom of the crowd to find story leads and angles no other news organization can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1fd2f9f55fd33825a34fcf74867bcde35fb76de.jpg"></article>]]></description>
