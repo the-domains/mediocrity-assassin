@@ -1,5 +1,6 @@
-layout_spectrum: 0.1337497872300446
 typography_spectrum: 0.5760523397475481
+content_rating:
+  adult: true
 color:
   brandStrength: 0.2147702758666128
   lightness: 0.4157247182447463
@@ -11,4 +12,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.1337497872300446
+author:
+  name: Sage Pintor
 name: Mediocrity Assassin
+title: Streamline Efficiency
