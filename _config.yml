@@ -1,17 +1,17 @@
-typography_spectrum: 0.5760523397475481
+typography_spectrum: 0.2784399311058223
 content_rating:
   adult: true
 color:
-  brandStrength: 0.2147702758666128
-  lightness: 0.4157247182447463
-  saturation: 0.31848306115716696
-  rhythmicContrast: 0.3348296598996967
+  brandStrength: 0.2961036975029856
+  lightness: 0.7019422533921897
+  saturation: 0.966160878771916
+  rhythmicContrast: 0.9858912564814091
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
 layout_spectrum: 0.1337497872300446
 author:
   name: Sage Pintor
