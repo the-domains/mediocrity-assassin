@@ -1,18 +1,18 @@
-typography_spectrum: 0.2784399311058223
+typography_spectrum: 0.3603757319506258
 content_rating:
   adult: true
 color:
-  brandStrength: 0.2961036975029856
-  lightness: 0.7019422533921897
-  saturation: 0.966160878771916
-  rhythmicContrast: 0.9858912564814091
+  brandStrength: 0.5795578940305859
+  lightness: 0.27867945772595704
+  saturation: 0.6023514177650213
+  rhythmicContrast: 0.2794581134803593
   brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
-layout_spectrum: 0.1337497872300446
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+layout_spectrum: 0.6025126534514129
 author:
   name: Sage Pintor
 name: Mediocrity Assassin
